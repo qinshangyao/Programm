@@ -1,0 +1,15 @@
+
+Average
+ ==================== 
+Variable,Min,Max,Mean,StdDev,Median,Sum,Count,Unit,Category,Channel,Collection,Time,
+Cell Area,4.869,3609.269,569.023,695.031,337.772,38124.512,67.000,um^2,Cell,,,1,
+Cell Nucleus to Cytoplasm Volume Ratio,0.000,0.000,0.000,0.000,0.000,0.000,67.000,,Cell,,,1,
+Cell Number Of Nuclei,0.000,0.000,0.000,0.000,0.000,0.000,67.000,,Cell,,,1,
+Cell Number Of Vesicles,0.000,0.000,0.000,0.000,0.000,0.000,67.000,,Cell,,,1,
+Cell Number of Voxels,3.000,7965.000,1209.000,1538.939,656.000,81003.000,67.000,,Cell,,,1,
+Cell Position X,10.864,875.461,474.672,232.615,536.931,31802.992,67.000,um,Cell,,Cell Position,1,
+Cell Position Y,61.814,653.503,295.218,168.317,249.498,19779.594,67.000,um,Cell,,Cell Position,1,
+Cell Position Z,0.500,0.500,0.500,0.000,0.500,33.500,67.000,um,Cell,,Cell Position,1,
+Cell Time,0.000,0.000,0.000,0.000,0.000,0.000,67.000,s,Cell,,,1,
+Cell Time Index,0.000,0.000,0.000,0.000,0.000,0.000,67.000,,Cell,,,1,
+Cell Volume,0.618,1641.714,249.194,317.200,135.212,16696.012,67.000,um^3,Cell,,,1,
