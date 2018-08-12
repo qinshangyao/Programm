@@ -1,6 +1,6 @@
 # tmp2.sh
-this line was at master branch;you decide 
-this line was added to mergetest branch
+# this line was at master branch;you decide 
+# this line was added to mergetest branch
 
 printf "%5s %5s %5s %5s %5s %5s %5s %5s\n" "Name","Min","Max","Mean","StdDev","Median","Sum","Cout"  > filterdata.csv
 ls ./HelpCaiyu | while read id
