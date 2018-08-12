@@ -1,4 +1,4 @@
-Name,Min,Max,Mean,StdDev,Median,Sum,Cout
+Name,Min,Max,Mean,StdDev,Median,Sum,Cout                                          
 CMG1-488_Average.csv,2.000,8225.000,1155.079,1626.644,221.000,87786.000,76.000
 CMG2-488_Average.csv,1.000,3826.000,381.664,670.363,45.000,41983.000,110.000
 CMG3-488_Average.csv,3.000,7965.000,1209.000,1538.939,656.000,81003.000,67.000
