@@ -1,0 +1,2 @@
+for i in {3899..3931};do cp ./Snap-${i}-*/* .;done
+## from exportfile of Zess copy the jepg file from respective dir
